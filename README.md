@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am glad to see you here! I am a Senior Research Data Scientist in 💻 Advanced Research Computing (ARC) centre at University College London (UCL).
+
+Currently working on the following open-source software:
+- FACS: Agent-based models for infectious disease propagation
+- FabSim3: Automation toolkit for job submission to HPC clusters
+
+
+
 <!--
 **arindamsaha1507/arindamsaha1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
